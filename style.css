@@ -2,7 +2,7 @@
 
 /*This is the background of the site*/
 body {
-  background: black;
+  background: #141f1f;
 }
 
 
@@ -45,15 +45,15 @@ body {
 
 /*This is the color for the text*/
 h3 {
-  color: white;
+  color: #e0ebeb;
 }
 
 p1 {
-  color: white;
+  color: #e0ebeb;
 }
 
 a {
-  color: white;
+  color: #e0ebeb;
 }
 
 /*Header info*/
@@ -64,7 +64,7 @@ a {
 }
 
 header {
-  background: black;
+  background: #141f1f;
 }
 
 header::after {
